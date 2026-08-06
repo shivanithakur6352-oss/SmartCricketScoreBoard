@@ -76,6 +76,3 @@ Learning Outcomes
 
 This project strengthens knowledge of Core Java, Object-Oriented Programming, Collections Framework, Exception Handling, File Handling, modular programming, and clean software architecture. It provides practical experience in developing a real-world application while following industry-standard coding practices.
 
-Author
-
-Vansh Thakur solutions.
